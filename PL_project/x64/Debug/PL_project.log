@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\jun\Desktop\PL_project\PL_project\MoveObject.h(2,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\jun\Desktop\PL_project\PL_project\main.cpp(116,16): warning C4477: 'printf' : 서식 문자열 '%lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\jun\Desktop\PL_project\PL_project\main.cpp(63): warning C4715: 'preprocess_data': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  PL_project.vcxproj -> C:\Users\jun\Desktop\PL_project\x64\Debug\PL_project.exe
